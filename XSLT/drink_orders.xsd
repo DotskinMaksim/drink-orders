@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="drink_orders">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" name="drink_order">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="datetime" type="xs:string" />
+                            <xs:element name="drink">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="name" type="xs:string" />
+                                        <xs:element name="price" type="xs:decimal" />
+                                        <xs:element name="amount" type="xs:unsignedByte" />
+                                        <xs:element name="sugar_level" type="xs:unsignedByte" />
+                                        <xs:element name="cup_type" type="xs:string" />
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="payment">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="method" type="xs:string" />
+                                        <xs:element name="paid" type="xs:decimal" />
+                                        <xs:element name="change" type="xs:decimal" />
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="status" type="xs:string" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
