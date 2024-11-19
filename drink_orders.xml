@@ -1,0 +1,185 @@
+<drink_orders>
+    <drink_order>
+        <datetime>2024-03-03 12:23:45</datetime>
+        <drink>
+            <name>Kohv Latte</name>
+            <price>2.50</price>
+            <amount>2</amount>
+            <sugar_level>1</sugar_level>
+            <cup_type>L</cup_type>
+        </drink>
+        <payment>
+            <method>Card</method>
+            <paid>5.00</paid>
+            <change>0.00</change>
+        </payment>
+        <status>Complete</status>
+    </drink_order>
+    <drink_order>
+        <datetime>2024-03-03 13:10:22</datetime>
+        <drink>
+            <name>Espresso</name>
+            <price>1.80</price>
+            <amount>1</amount>
+            <sugar_level>0</sugar_level>
+            <cup_type>S</cup_type>
+        </drink>
+        <payment>
+            <method>Cash</method>
+            <paid>2.00</paid>
+            <change>0.20</change>
+        </payment>
+        <status>Complete</status>
+    </drink_order>
+    <drink_order>
+        <datetime>2024-03-03 13:35:18</datetime>
+        <drink>
+            <name>Green Tea</name>
+            <price>2.00</price>
+            <amount>1</amount>
+            <sugar_level>2</sugar_level>
+            <cup_type>M</cup_type>
+        </drink>
+        <payment>
+            <method>Card</method>
+            <paid>2.00</paid>
+            <change>0.00</change>
+        </payment>
+        <status>Complete</status>
+    </drink_order>
+    <drink_order>
+        <datetime>2024-03-03 14:05:30</datetime>
+        <drink>
+            <name>Hot Chocolate</name>
+            <price>3.00</price>
+            <amount>1</amount>
+            <sugar_level>3</sugar_level>
+            <cup_type>L</cup_type>
+        </drink>
+        <payment>
+            <method>Card</method>
+            <paid>3.00</paid>
+            <change>0.00</change>
+        </payment>
+        <status>Complete</status>
+    </drink_order>
+    <drink_order>
+        <datetime>2024-03-03 14:25:45</datetime>
+        <drink>
+            <name>Cappuccino</name>
+            <price>2.80</price>
+            <amount>1</amount>
+            <sugar_level>1</sugar_level>
+            <cup_type>M</cup_type>
+        </drink>
+        <payment>
+            <method>Cash</method>
+            <paid>3.00</paid>
+            <change>0.20</change>
+        </payment>
+        <status>Complete</status>
+    </drink_order>
+    <drink_order>
+        <datetime>2024-03-03 14:50:15</datetime>
+        <drink>
+            <name>Americano</name>
+            <price>2.20</price>
+            <amount>1</amount>
+            <sugar_level>0</sugar_level>
+            <cup_type>L</cup_type>
+        </drink>
+        <payment>
+            <method>Card</method>
+            <paid>2.20</paid>
+            <change>0.00</change>
+        </payment>
+        <status>Complete</status>
+    </drink_order>
+    <drink_order>
+        <datetime>2024-03-03 15:15:30</datetime>
+        <drink>
+            <name>Mocha</name>
+            <price>3.50</price>
+            <amount>1</amount>
+            <sugar_level>2</sugar_level>
+            <cup_type>L</cup_type>
+        </drink>
+        <payment>
+            <method>Card</method>
+            <paid>3.50</paid>
+            <change>0.00</change>
+        </payment>
+        <status>Complete</status>
+    </drink_order>
+    <drink_order>
+        <datetime>2024-03-03 15:45:00</datetime>
+        <drink>
+            <name>Herbal Tea</name>
+            <price>2.50</price>
+            <amount>1</amount>
+            <sugar_level>0</sugar_level>
+            <cup_type>M</cup_type>
+        </drink>
+        <payment>
+            <method>Cash</method>
+            <paid>2.50</paid>
+            <change>0.00</change>
+        </payment>
+        <status>Complete</status>
+    </drink_order>
+    <drink_order>
+        <datetime>2024-03-03 16:05:35</datetime>
+        <drink>
+            <name>Matcha Latte</name>
+            <price>3.00</price>
+            <amount>1</amount>
+            <sugar_level>1</sugar_level>
+            <cup_type>M</cup_type>
+        </drink>
+        <payment>
+            <method>Card</method>
+            <paid>3.00</paid>
+            <change>0.00</change>
+        </payment>
+        <status>Complete</status>
+    </drink_order>
+    <drink_order>
+        <datetime>2024-03-03 16:30:10</datetime>
+        <drink>
+            <name>Black Coffee</name>
+            <price>1.50</price>
+            <amount>1</amount>
+            <sugar_level>0</sugar_level>
+            <cup_type>S</cup_type>
+        </drink>
+
+        <payment>
+            <method>Cash</method>
+            <paid>2.00</paid>
+            <change>0.50</change>
+        </payment>
+        <status>Complete</status>
+    </drink_order>
+
+
+
+
+
+
+    <drink_order>
+        <datetime>2024-03-03 17:00:20</datetime>
+        <drink>
+            <name>Iced Latte</name>
+            <price>3.20</price>
+            <amount>1</amount>
+            <sugar_level>1</sugar_level>
+            <cup_type>L</cup_type>
+        </drink>
+        <payment>
+            <method>Card</method>
+            <paid>3.20</paid>
+            <change>0.00</change>
+        </payment>
+        <status>Interrupted</status>
+    </drink_order>
+</drink_orders>
