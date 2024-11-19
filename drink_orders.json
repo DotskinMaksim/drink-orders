@@ -1,5 +1,5 @@
 {
-  "drink_order": [
+  "drink_orders": [
     {
       "datetime": "2024-03-03 12:23:45",
       "drink": {
@@ -95,86 +95,6 @@
         "change": "0.00"
       },
       "status": "Complete"
-    },
-    {
-      "datetime": "2024-03-03 15:15:30",
-      "drink": {
-        "name": "Mocha",
-        "price": "3.50",
-        "amount": "1",
-        "sugar_level": "2",
-        "cup_type": "L"
-      },
-      "payment": {
-        "method": "Card",
-        "paid": "3.50",
-        "change": "0.00"
-      },
-      "status": "Complete"
-    },
-    {
-      "datetime": "2024-03-03 15:45:00",
-      "drink": {
-        "name": "Herbal Tea",
-        "price": "2.50",
-        "amount": "1",
-        "sugar_level": "0",
-        "cup_type": "M"
-      },
-      "payment": {
-        "method": "Cash",
-        "paid": "2.50",
-        "change": "0.00"
-      },
-      "status": "Complete"
-    },
-    {
-      "datetime": "2024-03-03 16:05:35",
-      "drink": {
-        "name": "Matcha Latte",
-        "price": "3.00",
-        "amount": "1",
-        "sugar_level": "1",
-        "cup_type": "M"
-      },
-      "payment": {
-        "method": "Card",
-        "paid": "3.00",
-        "change": "0.00"
-      },
-      "status": "Complete"
-    },
-    {
-      "datetime": "2024-03-03 16:30:10",
-      "drink": {
-        "name": "Black Coffee",
-        "price": "1.50",
-        "amount": "1",
-        "sugar_level": "0",
-        "cup_type": "S"
-      },
-      "payment": {
-        "method": "Cash",
-        "paid": "2.00",
-        "change": "0.50"
-      },
-      "status": "Complete"
-    },
-    {
-      "datetime": "2024-03-03 17:00:20",
-      "drink": {
-        "name": "Iced Latte",
-        "price": "3.20",
-        "amount": "1",
-        "sugar_level": "1",
-        "cup_type": "L"
-      },
-      "payment": {
-        "method": "Card",
-        "paid": "3.20",
-        "change": "0.00"
-      },
-      "status": "Interrupted"
     }
   ]
 }
