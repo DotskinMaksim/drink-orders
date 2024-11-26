@@ -95,22 +95,6 @@
                 "change": "0.00"
             },
             "status": "Complete"
-        },
-        {
-            "datetime": "4353-04-23T05:43",
-            "drink": {
-                "name": "fsdf",
-                "price": "43",
-                "amount": "34",
-                "sugar_level": "34",
-                "cup_type": "r"
-            },
-            "payment": {
-                "method": "ewrwer",
-                "paid": "43",
-                "change": "34"
-            },
-            "status": "erw"
         }
     ]
 }

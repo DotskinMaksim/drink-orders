@@ -188,6 +188,8 @@ if ($sort !== '') {
     <?php endforeach; ?>
     </tbody>
 </table>
-
+<div>
+    <a href="insert.php"><button type="button">Insert new</button></a>
+</div>
 </body>
 </html>
